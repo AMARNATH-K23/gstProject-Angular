@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "gst"
+  "defaultProject": "gst",
+  "cli": {
+    "analytics": "f2d15d1f-ddd2-49dc-b143-f15565b21822"
+  }
 }
